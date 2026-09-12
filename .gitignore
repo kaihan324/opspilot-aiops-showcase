@@ -1,0 +1,12 @@
+.env
+.env.*
+*.log
+*.key
+*.pem
+*.crt
+*.sqlite
+*.sqlite3
+*.db
+private/
+production/
+secrets/
